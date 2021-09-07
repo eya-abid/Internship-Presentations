@@ -1,5 +1,0 @@
-train: ../train/images
-val: ../valid/images
-
-nc: 7
-names: ['bus', 'car', 'motocycle', 'person', 'taxi', 'truck', 'van']
